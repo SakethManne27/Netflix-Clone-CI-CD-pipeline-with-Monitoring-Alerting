@@ -25,7 +25,7 @@
 # Step 1 ::
 - Launch an Ubuntu(22.04) T2 Large Instance. You can create a new key pair or use an existing one. Enable HTTP and HTTPS settings in the Security Group and open all ports (not best case to open all ports but this is just for the project purpose).
 
-![alt text](https://github.com/kypamourya27/Netflix-Clone-CI-CD-pipeline-with-Monitoring-Alerting/blob/main/assets/Instances.png)
+![alt text](https://github.com/kypamourya27/Netflix-Clone-CI-CD-pipeline-with-Monitoring-Alerting/blob/main/assets/Instances1.png)
 
 # Step 2 ::
 - Install Jenkins, Docker and Trivy
